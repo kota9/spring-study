@@ -1,4 +1,4 @@
-package com.example.springstudy.repository;
+package com.example.springstudy.day16.repository;
 
 import org.springframework.stereotype.Repository;
 

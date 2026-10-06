@@ -1,7 +1,7 @@
-package com.example.springstudy.service;
+package com.example.springstudy.day16.service;
 
-import com.example.springstudy.bean.PaymentClient;
-import com.example.springstudy.repository.UserRepository;
+import com.example.springstudy.day16.bean.PaymentClient;
+import com.example.springstudy.day16.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

@@ -1,4 +1,4 @@
-package com.example.springstudy.bean;
+package com.example.springstudy.day16.bean;
 
 public class PaymentClient {
 

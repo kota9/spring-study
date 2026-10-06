@@ -1,6 +1,6 @@
-package com.example.springstudy.config;
+package com.example.springstudy.day16.config;
 
-import com.example.springstudy.bean.PaymentClient;
+import com.example.springstudy.day16.bean.PaymentClient;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
